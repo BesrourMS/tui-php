@@ -3,7 +3,7 @@
     "description": "TUI (Tunisia\u0000s Unique Identifier) format validator",
     "type": "library",
     "license": "MIT",
-    "version": "main",
+    "version": "1.0",
     "authors": [
         {
             "name": "Mohamed Safouan Besrour",
