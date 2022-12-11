@@ -1,6 +1,6 @@
 {
     "name": "besrourms/tui-php",
-    "description": "TUI (Tunisia\u0000s Unique Identifier) format validator",
+    "description": "TUI (Tunisia's Unique Identifier) format validator",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
