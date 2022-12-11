@@ -1,0 +1,14 @@
+{
+    "name": "besrourms/tui-php",
+    "description": "TUI (Tunisia\u0000s Unique Identifier) format validator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Safouan Besrour",
+            "email": "besrour_2010@live.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
